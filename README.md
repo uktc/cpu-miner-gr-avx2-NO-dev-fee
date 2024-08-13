@@ -23,7 +23,7 @@ MacOS, OSx and Android are not supported.
 
 # Supported Algorithms
 
- gr            Ghost Rider (RTM)
+ gr            Ghost Rider
  
  # Quick Setup
  
@@ -49,4 +49,4 @@ Ghost Rider (GR) algorithm that is used to mine RTM consists of 15 "core" algori
 
 # Donations
 
-*RTM: RUuCbtCZNvhXXneUHiVMqEStyyAPz95u16*
+*: *
