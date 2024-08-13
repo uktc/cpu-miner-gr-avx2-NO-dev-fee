@@ -1,5 +1,5 @@
-# cpuminer-gr-avx2 / 0.05% FEE
-CPU Miner for GR - Ghostrider algorithm - RTM (Raptoreum) Miner with only 0.05% FEE
+# cpuminer-gr-avx2 / NO dev FEE
+CPU Miner for GR - Ghostrider algorithm - RTM (Raptoreum) Miner with NO dev FEE
 
 cpuminer-gr is a fork of cpuminer-opt by Jay D Dee which is a fork of cpuminer-multi with optimizations imported from other miners developped by lucas Jones, djm34, Wolf0, pooler, Jeff garzik, ig0tik3d, elmad, palmd, and Optiminer, with additional optimizations by Jay D Dee.
 
